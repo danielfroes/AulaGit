@@ -2,6 +2,7 @@
 
 int main()
 {
-    printf("Hello, novo daniel\n");
+    printf("Hello, Master nova\n");
+    
     return 0;
 }
