@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello, alterando tudo denovo\n");
+    printf("Hello, alterando tudo denovo, pela segunda vez\n");
     return 0;
 }
