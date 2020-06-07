@@ -2,10 +2,6 @@
 
 int main()
 {
-<<<<<<< HEAD
-    printf("Hello, Novo Bernardo again\n");
-=======
-    printf("Hello, Master\n");
->>>>>>> master
+    printf("Hello, alterando tudo denovo\n");
     return 0;
 }
