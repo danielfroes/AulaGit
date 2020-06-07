@@ -2,6 +2,7 @@
 
 int main()
 {   print(" S T O N KS\n");
+    print("H e l l o\n");
     printf("Hello, alterando tudo denovo, pela segunda vez\n");
 
     printf("Hello, MasterMae\n");
