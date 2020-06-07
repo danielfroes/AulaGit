@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello, Random\n");
+    printf("Hello, Randomico\n");
     return 0;
 }
