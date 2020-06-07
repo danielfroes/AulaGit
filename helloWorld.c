@@ -2,8 +2,7 @@
 
 int main()
 {
-    printf("Hello, Master123\n");
-    printf("Hello, Daniel 123\n");
+    printf("Hello, Master nova\n");
     
     return 0;
 }
